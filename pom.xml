@@ -104,20 +104,20 @@
     <artifactId>udfs</artifactId>
     <version>3.0.1</version>
     <name>PrestoUDFs</name>
-    <url>https://github.com/qubole/presto-udfs</url>
+    <url>https://github.com/phillip2019/presto-udfs.git</url>
     <description>Common Functions for the Facebook Presto SQL Engine</description>
 
     <scm>
-        <url>https://github.com/qubole/presto-udfs</url>
-        <connection>scm:git:git://github.com/qubole/presto-udfs.git</connection>
-        <developerConnection>scm:git:git@github.com:qubole/presto-udfs.git</developerConnection>
+        <url>https://github.com/phillip2019/presto-udfs</url>
+        <connection>scm:git:git://github.com/phillip2019/presto-udfs.git</connection>
+        <developerConnection>scm:git:git@github.com:phillip2019/presto-udfs.git</developerConnection>
       <tag>udfs-3.0.1</tag>
     </scm>
 
     <licenses>
         <license>
             <name>Apache License, Version 2.0</name>
-            <url>https://github.com/qubole/presto-udfs/blob/master/src/license/LICENSE-HEADER.txt</url>
+            <url>https://github.com/phillip2019/presto-udfs/blob/master/src/license/LICENSE-HEADER.txt</url>
             <distribution>repo</distribution>
         </license>
     </licenses>
